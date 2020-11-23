@@ -562,8 +562,6 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .intro {
-    background: url(../img/background.jpg) no-repeat;
-    background-size: cover;
     color: #fff;
     padding: 150px 0;
     overflow: hidden;
