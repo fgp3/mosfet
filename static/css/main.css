@@ -913,7 +913,8 @@ div.services-item > p, div.services-item > ul {
     position: relative;
     cursor: pointer;
     overflow: hidden;
-    border-radius: 4px
+    border-radius: 4px;
+    align-content: center;
 }
 
 .team-item .team-overlay {
